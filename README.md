@@ -2,6 +2,13 @@
 
 
 # 👗 Vogue Naija – Sales & Performance Dashboard (Power BI)
+## 🏢 Company Background — Vogue Naija
+
+Vogue Naija is a fashion and lifestyle retail brand focused on modern African style, apparel, and accessories. The company caters to a growing market of fashion-conscious consumers by offering trendy, culturally inspired products both online and in-store.
+
+As the brand expanded, management needed better visibility into sales performance, customer preferences, and product trends to support smarter business decisions. Understanding what products sell best, when customers buy, and which categories drive revenue became essential for growth.
+
+This project uses Vogue Naija’s sales data to generate insights that help improve sales strategy, customer targeting, and inventory planning.
 
 ## 📌 Project Overview
 This project presents a Power BI dashboard developed for Vogue Naija to analyse sales performance, customer trends, and product insights.
